@@ -1,5 +1,5 @@
 {
-	"name": "skautis/nette",
+	"name": "ovalek/skautis-nette",
 	"type": "library",
 	"description": "Nette extension for Skautis library",
 	"keywords": ["skautis", "api", "nette"],
@@ -17,7 +17,7 @@
 	},
 	"require": {
 		"php": ">=7.2",
-		"skautis/skautis": "3.0.0-alpha.5",
+		"ovalek/skautis": "3.0.0-alpha.6",
 		"nette/di": "^3.2",
 		"nette/http": "^3.3",
 		"nette/utils": "^4.0"
